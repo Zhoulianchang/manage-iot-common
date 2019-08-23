@@ -1,0 +1,6 @@
+.idea
+*.tmp
+*.tar.gz
+*.exe
+swagger.zip
+vendor
